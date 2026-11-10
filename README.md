@@ -47,3 +47,9 @@ The firmware is located in the `Firmware/` directory and is built using the Ardu
 ## Contributions
 
 Pull requests, issue reports, and improvements are welcome. Make sure to open issue before to discuss changes.
+
+## Support
+
+If you find this project useful, you can buy me a coffee:
+
+<a href="https://buymeacoffee.com/sini6a"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
